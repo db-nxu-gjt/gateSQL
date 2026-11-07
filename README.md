@@ -1,7 +1,8 @@
 # Confidence Gating for LLM Text-to-SQL — Code & Data Artifact
 
-Artifact for the paper *"When to Execute, Defer, or Abstain: A Fully Audited
-Study of Confidence Gating for LLM-Generated SQL"* (anonymous submission).
+Artifact for the paper *"Calibrated Confidence Gating for Text-to-SQL:
+White-Box Recalibration, Execution-Evidence Fusion, and the Limits of
+Conformal Guarantees"* submitted to ICDE 2027.
 
 The paper audits six confidence methods plus a split-conformal wrapper on a
 6,000-candidate DeepSeek pool over 300 difficulty-stratified BIRD dev
