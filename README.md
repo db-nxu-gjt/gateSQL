@@ -37,8 +37,6 @@ the second generator (1.70x / 2.70x alpha).
 │   ├── lodo/ raw/ temp_fit500/   split definitions & raw generation records
 │   ├── scripts/         pool construction, LODO splits, schema-drift builder
 │   └── bird/            BIRD databases: download here (README inside)
-├── figures/             output dir for the figure scripts (empty)
-└── results/             generated reports (*.md), workbooks (*.xlsx), stats (*.json)
 ```
 
 ## Setup
